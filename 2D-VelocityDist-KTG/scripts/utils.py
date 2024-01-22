@@ -1,5 +1,5 @@
 '''
-This script contains some usefull function used in the simulation scirpts.
+This script contains some usefull function used in the simulation scripts.
 
 Author : Anik Mandal
 '''
